@@ -12,7 +12,7 @@ We used a stacking ensemble method to combine the predictions from 5 Keras seque
 
 TfidfVectorizer was used to convert text data into word frequency vectors during data preparation.
 
-We tried using multi-input neural networks with both image and text inputs but led to decrease in out accuracy.
+We tried using multi-input neural networks with both image and text inputs but led to decrease in our accuracy.
 
 ## What could have been done better?
 
